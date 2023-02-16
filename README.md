@@ -1,11 +1,11 @@
 ## Olá! :grin:
 
-Me chamo Vinicius e sou apaixonado por tecnologia e todo seu potencial de transformação. Fiz minha transição de carreira de Engenheiro Civil para Desenvolvedor de Software em meados de 2022 para atuar com o que realmente gosto.
+Apaixonado por tecnologia e todo seu potencial de transformação. Fiz minha transição de carreira de Engenheiro Civil para Desenvolvedor de Software em 2022 buscando atuar com o que realmente gosto.
 
-Meus fortes são o raciocínio lógico, gestão de prazos e de recursos, habilidades que pude desenvolver em minha carreira anterior.
+Meus fortes são o raciocínio lógico, gestão de prazos e de recursos (habilidades que pude desenvolver em minha carreira anterior).
 
-Atualmente estou me profissionalizando como Desenvolvedor Web com foco em **Back-end** (NodeJS).
-Tenho interesse em atuar na área de Desenvolvimento de Software Back-end.
+Atualmente estou me profissionalizando como Desenvolvedor Web **Full-Stack** (NodeJs, React).
+Tenho interesse em atuar como Desenvolvimento de Software (Front-end ou Back-end).
 
 
 ### Para me Encontrar:
