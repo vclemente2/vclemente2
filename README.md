@@ -4,7 +4,7 @@ Apaixonado por tecnologia e todo seu potencial de transformação. Fiz minha tra
 
 Meus fortes são o raciocínio lógico, gestão de prazos e de recursos, habilidades que pude desenvolver em minha carreira anterior.
 
-Tenho interesse em atuar como Desenvolvimento de Software (Front-end ou Back-end).
+Busco atuar como Desenvolvedor Web (Front-end ou Back-end).
 
 
 ### Para me Encontrar:
