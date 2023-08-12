@@ -1,6 +1,6 @@
 ## Olá! :grin:
 
-Apaixonado por tecnologia e todo seu potencial de transformação. Fiz minha transição de carreira de Engenheiro Civil para Desenvolvedor de Software em 2022 buscando atuar com o que realmente gosto.
+Sou um apaixonado por tecnologia e todo seu potencial de transformação. Fiz minha transição de carreira de Engenheiro Civil para Desenvolvedor de Software em 2022 buscando atuar com o que realmente gosto.
 
 Meus fortes são o raciocínio lógico, gestão de prazos e de recursos, habilidades que pude desenvolver em minha carreira anterior.
 
